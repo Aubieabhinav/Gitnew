@@ -1,3 +1,4 @@
+#commit in the thirsty branch
 hungry=input("are you hungry")
 if hungry="yes" :
     print("eat samosa")
