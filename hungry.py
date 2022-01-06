@@ -8,4 +8,4 @@ else:
     if(thirsty=="yes"):\
         print("drink water")
         print("do your assignment")
-    
+        print("do nothing")
